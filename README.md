@@ -16,7 +16,7 @@ INSTALLATION/RUNNING THE APP
 
 Note: Make sure you have git installed locally on your computer first. cd into the directory where you want to clone the project
 
-    Clone GitHub repo for this project locally git clone https://github.com/KirinyetBrian/Pedicare.git
+    Clone GitHub repo for this project locally git clone https://github.com/andymush/Pedicare.git
 
     cd into your project
 
