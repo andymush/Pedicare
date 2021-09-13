@@ -15,11 +15,7 @@
                 <h5 style="text-align: center;">Find Doctor</h5></a>
         </div>
 
-        <div class="col-sm-4">
-                <a href="/Admin/Properties/index" class="btn btn-outline-primary text-center" style="width:100%; height:100%; padding:50px;">
-                    <i class="bi bi-collection-fill"></i>
-                    <h5 style="text-align: center;">Find Medicine</h5></a>
-        </div>
+        
     </div>
     
 </div>
