@@ -17,9 +17,18 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/addproblem', function () {
-    return view('addproblem');
+Route::get('/problem', function () {
+    return view('problem');
 });
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+Route::get('/medicines', function () {return view('/medicines');});
+Route::get('/Problems/viewproblem', function () {return view('/Problems/viewproblem');});
+Route::get('/Doctors/viewdoctor', function () {return view('/Doctors/viewdoctor');});
+Route::get('/Doctors/doctors', function () {return view('/Doctors/doctors');});
+Route::get('/Meds/viewmedicine', function () {return view('/Meds/viewmedicine');});
 
 Auth::routes();
 
