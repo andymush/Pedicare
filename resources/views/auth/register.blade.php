@@ -40,6 +40,20 @@
                         </div>
 
                         <div class="form-group row">
+                            <label for="email" class="col-md-4 col-form-label text-md-right">{{ __('Location') }}</label>
+
+                            <div class="col-md-6">
+                                <select  name="PropertyId" type="text" class="form-control" id="PropertyId" aria-describedby="PropertyId" required>
+                                    <option value=""> Select Property</option>
+                                    @foreach ($locations as $location )
+                                        <option value="{{$location->id}}">{{$location->name}} </option>
+                                    @endforeach
+                                </select>
+
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
                             <label for="password" class="col-md-4 col-form-label text-md-right">{{ __('Password') }}</label>
 
                             <div class="col-md-6">
