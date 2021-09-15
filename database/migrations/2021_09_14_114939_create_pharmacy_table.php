@@ -14,7 +14,7 @@ class CreatePharmacyTable extends Migration
     public function up()
     {
         Schema::create('pharmacy', function (Blueprint $table) {
-            $table->id();
+            $table->increments('id');
             $table->timestamps();
             $table->integer('location_id')->unsigned();
             $table->foreign('location_id')->references('id')->on('location')->onDelete('cascade')->onUpdate('CASCADE');

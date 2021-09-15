@@ -14,7 +14,7 @@ class CreateImageTable extends Migration
     public function up()
     {
         Schema::create('image', function (Blueprint $table) {
-            $table->id();
+            $table->increments('id');
             $table->timestamps();
             $table->integer('med_id')->unsigned();
             $table->foreign('med_id')->references('id')->on('meds')->onDelete('cascade')->onUpdate('CASCADE');
