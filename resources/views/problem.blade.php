@@ -41,31 +41,33 @@
     <div class="container align-items-center">
         <div class="">
            <div class="row align-items-center">
-                <div class="col-md-3 mb-3">
+                <div class="col-md-4 mb-3">
                     <button class="btn btn-outline-primary">Stomache ache</button>
                 </div>
-                <div class="col-md-3 mb-3">
-                    <button class="btn btn-outline-primary">Stomache ache</button>
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-outline-primary">Fever</button>
                 </div>
-                <div class="col-md-3 mb-3">
-                    <button class="btn btn-outline-primary">Stomache ache</button>
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-outline-primary">Yellowing of the skin</button>
                 </div>
-                <div class="col-md-3 mb-3">
-                    <button class="btn btn-outline-primary">Stomache ache</button>
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-outline-primary">Chicken pox</button>
                 </div>
-                <div class="col-md-3 mb-3">
-                    <button class="btn btn-outline-primary">Stomache ache</button>
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-outline-primary">Dry cough</button>
                 </div>
-                <div class="col-md-3 mb-3">
-                    <button class="btn btn-outline-primary">Stomache ache</button>
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-outline-primary">Pink rashes</button>
                 </div>
-                <div class="col-md-3 mb-3">
-                    <button class="btn btn-outline-primary">Stomache ache</button>
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-outline-primary">Diarrhoea</button>
                 </div>
-                <div class="col-md-3 mb-3">
-                    <button class="btn btn-outline-primary">Stomache ache</button>
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-outline-primary">Hepatitis B</button>
                 </div>
-                
+                <div class="col-md-4 mb-3">
+                    <button class="btn btn-outline-primary">Constipation</button>
+                </div>
             </div>
         </div>
     </div>

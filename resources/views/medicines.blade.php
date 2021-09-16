@@ -47,10 +47,10 @@
                 <a href="Doctors/doctors" class="btn btn-outline-primary text-center" style="width:100%; height:100%">
                     
                     <h3 class="Card-title mb-3">
-                        Find Doc
+                        Pain Killers
                     </h3>
                     <p class="card-text">
-                        Find the doctor that is online
+                        Feeling too much pain??
                     </p>
                 </a>
             </div>
@@ -58,10 +58,10 @@
                 <a href="Doctors/doctors" class="btn btn-outline-primary text-center" style="width:100%; height:100%; ">
                     
                     <h3 class="Card-title mb-3">
-                        Find Doc
+                        Antibiotics
                     </h3>
                     <p class="card-text">
-                        Find the doctor that is online
+                        In need of a quick fix?
                     </p>
                 </a>
             </div>
@@ -70,10 +70,10 @@
                 <a href="Doctors/doctors" class="btn btn-outline-primary text-center" style="width:100%; height:100%; ">
                     
                     <h3 class="Card-title mb-3">
-                        Find Doc
+                        Capsules
                     </h3>
                     <p class="card-text">
-                        Find the doctor that is online
+                        Remedy just a swallow away
                     </p>
                 </a>
             </div>
@@ -81,10 +81,10 @@
                 <a href="Doctors/doctors" class="btn btn-outline-primary text-center" style="width:100%; height:100%; ">
                     
                     <h3 class="Card-title mb-3">
-                        Find Doc
+                        Supportisories
                     </h3>
                     <p class="card-text">
-                        Find the doctor that is online
+                        
                     </p>
                 </a>
             </div>
@@ -92,10 +92,10 @@
                 <a href="Doctors/doctors" class="btn btn-outline-primary text-center" style="width:100%; height:100%; ">
                     
                     <h3 class="Card-title mb-3">
-                        Find Doc
+                        Inhalers
                     </h3>
                     <p class="card-text">
-                        Find the doctor that is online
+                        Breath live into your lungs
                     </p>
                 </a>
             </div>
@@ -103,13 +103,15 @@
                 <a href="Doctors/doctors" class="btn btn-outline-primary text-center" style="width:100%; height:100%; ">
                     
                     <h3 class="Card-title mb-3">
-                        Find Doc
+                        Body creams
                     </h3>
                     <p class="card-text">
-                        Find the doctor that is online
+                        Your skin might be the issue
                     </p>
                 </a>
             </div>
+           
+           
 
         </div>
     </div>

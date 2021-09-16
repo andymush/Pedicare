@@ -25,6 +25,9 @@ Route::get('/problem', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+Route::get('/cart', function () {
+    return view('cart');
+});
 Route::get('/medicines', function () {return view('/medicines');});
 Route::get('/Problems/viewproblem', function () {return view('/Problems/viewproblem');});
 Route::get('/Doctors/viewdoctor', function () {return view('/Doctors/viewdoctor');});
@@ -38,3 +41,4 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::resource('location', DataController::class);
 
 Route::get('/auth/passwords/register',[DataController::class,'locations']);
+
